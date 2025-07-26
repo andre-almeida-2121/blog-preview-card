@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of my Resolution!](image.png)
+![Screenshot of my Resolution!](image-1.png)
 
 ### Links
 
